@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AWESH ISLAM</h1>
 <h3 align="center">A passionate Computer Science Student from Bangladesh</h3>
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-h-e-a-i&label=Profile%20views&color=0e75b6&style=flat" alt="t-h-e-a-i" /> </p>
 
