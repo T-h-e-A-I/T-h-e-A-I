@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-h-e-a-i&label=Profile%20views&color=0e75b6&style=flat" alt="t-h-e-a-i" /> </p>
 
-- 🌱 I’m currently learning **MERN,GODOT**
-
+- Portfolio website: **https://aweshislam.com**
 - 📫 How to reach me **aweshrumc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
